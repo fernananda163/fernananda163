@@ -30,7 +30,7 @@ Marketing analytics project focused on evaluating the performance of different m
 
 SQL analytics project focused on e-commerce sales performance, using data to identify trends across products and categories and generate business insights.
 
-🔗 View ShopScope SQL Analytics
+🔗 [View ShopScope SQL Analytics](https://github.com/fernananda163/shopscope-sql-analytics-)
 
 ## 🎯 Career Goals
 
