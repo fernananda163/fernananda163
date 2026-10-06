@@ -38,5 +38,5 @@ I'm seeking opportunities as a Data Analyst where I can apply my analytical skil
 
 ## 📫 Let's Connect
 
-- LinkedIn: Coming soon
-- Email: Available upon request
+-LinkedIn: [Fernanda Encinas Rios](https://www.linkedin.com/in/fernanda-encinas-rios-0ba552416/)
+- Email: fernananda.163@gmail.com
